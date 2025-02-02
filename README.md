@@ -1,4 +1,5 @@
 # Supply-chain-management
+This project focuses on analyzing and optimizing various aspects of the supply chain using interactive dashboards. The goal is to provide actionable insights into inventory levels, profit and cost dynamics, and shipment performance, enabling data-driven decision-making for operational efficiency.
 
 # Key Dashboards and Insights
 
