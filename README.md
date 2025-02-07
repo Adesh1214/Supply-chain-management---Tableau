@@ -20,7 +20,8 @@ Key Metrics:
 1. Tracks stock levels for the top six product categories over time.
 2. Identifies overstock and understock situations with a detailed product category breakdown.
 3. Compares supply and demand by product departments for balanced inventory management.
-<img width="900" alt="Inventory Dashboard" src="https://github.com/user-attachments/assets/c9154ad0-b2b8-4995-8245-f9d0891c49a0" />
+<img width="793" alt="Inventory Dashboard" src="https://github.com/user-attachments/assets/15c4aa70-b562-4ce8-aed8-80bb3c01de99" />
+
 
 
 
